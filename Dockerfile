@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER 吴汗三
+MAINTAINER WuhanSun
 WORKDIR /tmp
 COPY ./22 /tmp
 RUN ls -l
